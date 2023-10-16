@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsmaeelMughal
 - 👀 I’m interested in developing softwares and the technology of Computer Science.
-- 🌱 I’m currently doing Bachelor in Computer Science.
+- 🌱 I’m currently doing full-time job as a software engineer.
 - 💞️ I’m looking to collaborate on Software base Projects.
 - 📫 Reach me at my GitHub, Linkedin or Email Address.
 
